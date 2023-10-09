@@ -1,1 +1,1 @@
-
+Imagine que você precisa encontrar quantas combinações de cores são possíveis com "n" cores. Para fazer isso você precisa calcular o fatorial de "n", que é o produto de todos os inteiros positivos menores ou igual a "n". Dado "n" como input. Calcule o número de possíveis combinações com "n" cores.
